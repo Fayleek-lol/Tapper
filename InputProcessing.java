@@ -36,9 +36,4 @@ public class InputProcessing
         number = number.multiply(BigInteger.valueOf(17));
         return number;
     }
-
-    public static void main(String args[])
-    {
-        System.out.println(inputToTupperNumber("00"));
-    }
 }
