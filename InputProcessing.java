@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.lang.String;
 
-public class InputProcessing
+final public class InputProcessing
 {
     //Метод возведения в степень большого числа
     private static BigInteger bigIntegerPow(long a, long b)
